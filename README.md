@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzselimhasturk&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzselimhasturk" /> </p>
 
-- 🔭 I’m currently working on **MyCourseDemy**
+- 🔭 I’m currently working on **MyCourseDemy** project
 
 - 🌱 I’m currently learning **Typescript**
 
